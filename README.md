@@ -19,15 +19,15 @@ Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
 
 ------------------------------------------------------------ EN ------------------------------------------------------------
 Project Gameplay Story:
-In this co-op experience, players start the game with basic stats and a simple club. They progress by clearing camps filled with AI enemies designed with Souls-like difficulty and various combat mechanics. As they fight through these camps, players obtain stronger weapons, armor pieces, accessories, and level up. Depending on the build they want to create, they equip and arrange items accordingly before moving on to the next camp. By upgrading the skills in the weapon’s skill tree (multiple weapon skill trees can be upgraded simultaneously), players grow stronger and eventually head out to defeat the final boss.
+In this co-op experience, players start the game with basic stats and a simple club. They progress by clearing camps filled with AI enemies designed with Soulslike difficulty and various combat mechanics. As they fight through these camps, players obtain stronger weapons, armor pieces, accessories, and level up. Depending on the build they want to create, they equip and arrange items accordingly before moving on to the next camp. By upgrading the skills in the weapon’s skill tree (multiple weapon skill trees can be upgraded simultaneously), players grow stronger and eventually head out to defeat the final boss.
 
 - Highlights of the Project (Fully Designed With Multiplayer Focus):
 - The inventory system is built using a FastArray structure, and Composite Pattern is used for widgets.
 - The project includes multiple systems such as Inventory, Equipment, Skill Tree, Combat, AI, etc.
 - Almost the entire project is developed in C++ and built on top of the Gameplay Ability System (GAS).
-- The AI is designed with a Souls-like combat mentality, unlike classic MMORPG enemies that act predictably, rotate abilities in order, and are easy to defeat.
+- The AI is designed with a Soulslike combat mentality, unlike classic MMORPG enemies that act predictably, rotate abilities in order, and are easy to defeat.
 - There are 6 different weapon types, each offering 4 unique skills. These skills can be unlocked and upgraded through a dedicated skill tree.
-- Beyond skills, each weapon type also has its own combat mechanics—combo attacks, heavy attacks, guarding with RMB, continuous flamethrower usage, special moves after forward/backward dodges, and more.
+- Beyond skills, each weapon type also has its own combat mechanics combo attacks, heavy attacks, guarding with RMB, continuous flamethrower usage, special moves after forward/backward dodges, and more.
 - The game contains 11 equipment/accessory slots in total: 6 armor pieces, 2 rings, 1 necklace, 1 cape, and 1 weapon.
 - Items come in 4 rarity tiers (Common, Rare, Epic, Legendary). Depending on the rarity, equipped items such as armor, weapons, rings, or necklaces dynamically change their stats and sub-attributes.
 - There are many rings, necklaces, and armor pieces available, but instead of showing every single item, the video showcases selected loot drops encountered during gameplay.
