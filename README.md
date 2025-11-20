@@ -1,7 +1,7 @@
 # MultiPlayer-UsingGAS-PVPVE-RPG-Inventory-Equipment-Combat-Game
 Gameplay Video Link : https://drive.google.com/file/d/1N9JLCH5Vhx6qkWeEXr9AAMCSnaBUbRvI/view?usp=drive_link
 
----------------------------------------------------------------------------- TR ----------------------------------------------------------------------------------------------
+------------------------------------------------------------ TR ------------------------------------------------------------
 Projenin Oynanış Hikayesi : Co-op şekilde oyuncular temel statlarla ve basic bir clubla oyuna başlamaktalar. Farklı soulsLike tarzda zorluktaki yapay zekalarla çeşitli combat mekanikleriyle Kamp temizleye temizleye ilerleyip daha güçlü silahlar, zirhlar, takilar düşürüp, level alıp yapacakları builde göre item dizerek bir sonraki kampi temizlemeye çalismaktalar. Kullandıkları silahın skill treesindeki skilleri geliştirerek (Aynı anda birden çok silahtaki skillde geliştirilebilir) kendilerini güçlendirip en son bossu kesmeye gidecek şekilde bir ilerleyiş mevcut.
 
 Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
@@ -15,7 +15,7 @@ Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
 - Çok sayıda yüzük, kolye ve zırh parçası mevcut ancak videoda hepsini tek tek göstermek yerine oynanış sırasında düşen bazı loot’lar üzerinden örnekler paylaştım.
 - Videonun son 5 dakikasında bir boss savaşı ve PvP düelloları yer alırken, önceki kısımlarda farklı türde yapay zekâ düşmanlarla savaşıp kamp temizleme sahneleri bulunuyor. 
 
----------------------------------------------------------------------------- EN ----------------------------------------------------------------------------------------------
+------------------------------------------------------------ EN ------------------------------------------------------------
 Project Gameplay Story:
 In this co-op experience, players start the game with basic stats and a simple club. They progress by clearing camps filled with AI enemies designed with Souls-like difficulty and various combat mechanics. As they fight through these camps, players obtain stronger weapons, armor pieces, accessories, and level up. Depending on the build they want to create, they equip and arrange items accordingly before moving on to the next camp. By upgrading the skills in the weapon’s skill tree (multiple weapon skill trees can be upgraded simultaneously), players grow stronger and eventually head out to defeat the final boss.
 
