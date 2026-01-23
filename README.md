@@ -12,7 +12,7 @@ Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
 - Projede envanter sistemi, Equipment sistemi, SkillTree sistemi, combat, Ai gibi birden çok sistem mevcut.
 - Projenin neredeyse tamamı C++ ile geliştirildi ve Gameplay Ability System (GAS) üzerine kuruldu.
 - Yapay zekâ, klasik MMORPG’lerdeki öngörülebilir, sırayla skill atan, kolay kesilebilir düşmanlar yerine Souls-like tarzı bir dövüş mantığına sahip.
-- 6 farklı silah türü bulunuyor ve her birinde 4 özel skill mevcut. Bu skill’ler bir skill tree sistemi üzerinden açılabiliyor ve geliştirilebiliyor. Skiller haricinde combolu saldırı, Heavy Attack veya RMB ile guard alma, sürekli flame throw atma, ileri geri dodge sonrası özel saldırı yapma vs. Gibi silah türüne özel farklı combat mekanikleri mevcut
+- 6 farklı silah türü bulunuyor ve her birinde 4 özel skill mevcut. Bu skill’ler bir skill tree sistemi üzerinden açılabiliyor ve geliştirilebiliyor. Skiller haricinde combolu saldırı, Heavy Attack veya RMB ile guard alma, sürekli flame throw atma, ileri geri dodge sonrası özel saldırı yapma vs. Gibi silah türüne özel farklı combat mekanikleri mevcut.
 - Toplamda 11 ekipman/takı slotu yer alıyor: 6 zırh parçası, 2 yüzük, 1 kolye, 1 pelerin ve 1 silah.
 - Eşyalar 4 farklı nadirlik seviyesinde (Common, Rare, Epic, Legendary) geliyor. Donatılan zırh, silah, takı, kolye vs. nadirlik durumuna göre özellikler ve alt statlar dinamik olarak değişiyor.
 - Çok sayıda yüzük, kolye ve zırh parçası mevcut ancak videoda hepsini tek tek göstermek yerine oynanış sırasında düşen bazı loot’lar üzerinden örnekler paylaştım.
