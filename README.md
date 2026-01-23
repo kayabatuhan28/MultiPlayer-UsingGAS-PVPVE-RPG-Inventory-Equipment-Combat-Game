@@ -5,7 +5,7 @@ Gameplay Video Link : https://www.youtube.com/watch?v=BtvQ7hR7n9k&list=PLeUQ9Opn
 
 ------------------------------------------------------------ TR ------------------------------------------------------------
 
-Projenin Ana İçeriği: Co-op şekilde oyuncular temel statlarla ve basic bir clubla oyuna başlamaktalar. Farklı soulsLike tarzda zorluktaki yapay zekalarla çeşitli combat mekanikleriyle Kamp temizleye temizleye ilerleyip daha güçlü silahlar, zirhlar, takilar düşürüp, level alıp yapacakları builde göre item dizerek bir sonraki kampi temizlemeye çalismaktalar. Kullandıkları silahın skill treesindeki skilleri geliştirerek (Aynı anda birden çok silahtaki skillde geliştirilebilir) kendilerini güçlendirip en son bossu kesmeye gidecek şekilde bir ilerleyiş mevcut.
+Projenin Ana İçeriği: Co-op şekilde oyuncular temel statlarla ve basic bir clubla oyuna başlamaktalar. Farklı soulsLike tarzda zorluktaki yapay zekalarla çeşitli combat mekanikleriyle Kamp temizleye temizleye ilerleyip daha güçlü silahlar, zirhlar, takilar düşürüp, level alıp yapacakları builde göre item dizerek bir sonraki kampi temizlemeye çalismaktalar. Kullandıkları silahın skill treesindeki skilleri geliştirerek (Aynı anda birden çok silahtaki skillde geliştirilebilir) kendilerini güçlendirip en son bossu kesmeye gidecek şekilde bir ilerleyiş mevcut. 
 
 Proje öne çıkan özellikleri (tamamen multiplayer odaklı tasarlandı):
 - Envanter sistemi fastArray yapisi kullanilarak oluşturuldu, Widgetlarda composite pattern kullanıldı.
